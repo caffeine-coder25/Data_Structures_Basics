@@ -1,5 +1,5 @@
 /* 
-Find lower bound of the given integer Val in the array A, lower bound of element is that number which is just smaller than that number.
+Find lower bound of the given integer Val in the array A, lower bound of element is that number which is just smaller than or equal to that number.
 */
 
 #include<bits/stdc++.h>
